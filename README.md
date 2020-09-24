@@ -5,9 +5,9 @@ This project involved tasks such as configuring the starting configuration of th
 This project was a coursework which was a part of the Advanced Robotic Systems module and scored a mark of 100/100.
 <img src="https://github.com/HarrishanSK/RoboticArmControlROS/blob/master/images/image1.png" alt="alt text">
 
-The above image is a screenshot from the demo video which can be found in videos directory which demonstrates all the project requirements fully working.
+The above image is a screenshot from the demo video which can be found in the 'video' directory which demonstrates all the project requirements fully working.
 
-The code can be found in the './code/' directory with a README.txt file which explains how to run the code. The python scripts which i wrote can be sound in the './code/src/' directory. The requirement specification can be found in the './requirements.pdf' file. A final demonstration video of the final product can be found in the './video' folder.
+The code can be found in the './code/' directory with a README.txt file which explains how to run the code. The python scripts which I wrote can be sound in the './code/src/' directory. The requirement specification can be found in the './requirements.pdf' file. A final demonstration video of the final product can be found in the './video' folder.
 
 ## Requirements
 ### ECS653U/ECS7004P Advanced Robotic Systems (Robotics III)
