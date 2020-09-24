@@ -7,7 +7,7 @@ This project was a coursework which was a part of the Advanced Robotic Systems m
 
 The above image is a screenshot from the demo video which can be found in videos directory which demonstrates all the project requirements fully working.
 
-
+The code can be found in the './code/' directory with a README.txt file which explains how to run the code. The python scripts which i wrote can be sound in the './code/src/' directory. The requirement specification can be found in the './requirements.pdf' file. A final demonstration video of the final product can be found in the './video' folder.
 
 ## Requirements
 ### ECS653U/ECS7004P Advanced Robotic Systems (Robotics III)
