@@ -3,6 +3,7 @@
 The goal of this coursework was to control a Robotic Arm using ROS (Robot Operating System).
 This project involved tasks such as configuring the starting configuration of the robotic arm  by defining its joints space, planning a cartesian path to realize the desired motion of the robot end effector, showing and executing the planned trajectory using rViz.
 This project was a coursework which was a part of the Advanced Robotic Systems module and scored a mark of 100/100.
+
 <img src="https://github.com/HarrishanSK/RoboticArmControlROS/blob/master/images/image1.png" alt="alt text">
 
 The above image is a screenshot from the demo video which can be found in the 'video' directory which demonstrates all the project requirements fully working.
